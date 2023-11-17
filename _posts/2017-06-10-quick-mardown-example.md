@@ -5,6 +5,7 @@ subtitle: 매주 금요일은 오픈소스 수업듣는날
 categories: markdown
 tags: [example]
 top: 2
+image: assests/pexels-gracie-d-18202399.jpg
 ---
 
 

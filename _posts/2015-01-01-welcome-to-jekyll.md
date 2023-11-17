@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 웹페이지 수정하기!
-subtitle:실습으로 한번 해봅시다.
+subtitle: 실습으로 한번 해봅시다.
 author: 지수
 categories: 지수
 banner:

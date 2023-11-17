@@ -20,55 +20,15 @@ top: 1
 sidebar: []
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+웹페이지를 처음부터 혼자 만들 생각에 답답함을 느낀 적이 있는 데 깃허브를 사용해서 이미 만들어진 페이지를 수정을 하면서 조금씩 익힐 수 있는 거 같고 간편하다고 생각이 들었답니다
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## 사진 변경하기
 
-## section 1
+1.원하는 사진을 다운받기
+2.사진을 assets파일안에 첨부(커밋)
+3.원하는 사진을 image:사진 경로로 작성
 
-Jekyll also offers powerful support for code snippets:
+## 글 내용 변경하기
 
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-## section 2
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-
-$ a \* b = c ^ b $
-
-$ 2^{\frac{n-1}{3}} $
-
-$ \int_a^b f(x)\,dx. $
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-  cout << "Hello World!";
-  return 0;
-}
-// prints 'Hi, Tom' to STDOUT.
-```
-
-```python
-class Person:
-  def __init__(self, name, age):
-    self.name = name
-    self.age = age
-
-p1 = Person("John", 36)
-
-print(p1.name)
-print(p1.age)
-```
+내가 원하는 페이지를 찾아 깃허브에서 직접 글을 수정 할 수 있답니다.
+다함께 실습 해 볼까요??
